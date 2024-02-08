@@ -1,4 +1,4 @@
-# Minecraft Compiled
+# The Block Book
 Designed to efficiently scrape and parse through the Minecraft wiki for easy access and use!
 
 Current features:
